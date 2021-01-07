@@ -1,0 +1,125 @@
+[2020-01-11 20:53:30] local.DEBUG: Message-ID: <df677b6cddc932a02ce1a3227bc065c9@swift.generated>
+Date: Sat, 11 Jan 2020 20:53:30 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: Ahmed sherif <a.sherif7@yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Ahmed sherif
+Thanks for creating an account . please verify your email using this link
+http://localhost/user/verify/Admin%20Verified
+  
+[2020-01-11 20:53:56] local.DEBUG: Message-ID: <62c0935e7a66327bdfafc9699ec57c99@127.0.0.1>
+Date: Sat, 11 Jan 2020 20:53:56 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: Ahmed Sherif <a.sherif8@yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Ahmed Sherif
+Thanks for creating an account . please verify your email using this link
+http://localhost:8000/user/verify/Social%20media%20accounts%20verified
+  
+[2020-01-11 20:54:22] local.DEBUG: Message-ID: <060b94b519a62a1ac750c36b83fc2591@127.0.0.1>
+Date: Sat, 11 Jan 2020 20:54:22 +0000
+Subject: User Welcome
+From: femto15 <femto@company.com>
+To: a.sherif8@yahoo.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ahmed Sherif
+Thanks for logging to our website
+  
+[2020-01-11 20:55:21] local.DEBUG: Message-ID: <a61f3bae87a52b6731d9dae0690ad747@127.0.0.1>
+Date: Sat, 11 Jan 2020 20:55:21 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: ahmed sherif abdelaty <a.sherif99@yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello ahmed sherif abdelaty
+Thanks for creating an account . please verify your email using this link
+http://localhost:8000/user/verify/BBeUUfz9vLhgMXgqUnoZvrHeYem9JUcrPcrJfyFB
+  
+[2020-01-11 20:58:04] local.DEBUG: Message-ID: <020c5eb033fafcb4eb6dc7c82a3b4031@127.0.0.1>
+Date: Sat, 11 Jan 2020 20:58:04 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: soso <soso_sondos99@yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello soso
+Thanks for creating an account . please verify your email using this link
+http://localhost:8000/user/verify/y5Taa6RCOrzegnAT8Dayhv2kd13NDUrc7DPvAg4R
+  
+[2020-01-11 20:59:05] local.DEBUG: Message-ID: <080fa45ee2b0ddee3323fbf603bdaf0b@127.0.0.1>
+Date: Sat, 11 Jan 2020 20:59:05 +0000
+Subject: User Welcome
+From: femto15 <femto@company.com>
+To: soso_sondos99@yahoo.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear soso
+Thanks for logging to our website
+  
+[2020-01-11 21:00:05] local.DEBUG: Message-ID: <a24de66fe45ed559fa6b644e19849ee6@swift.generated>
+Date: Sat, 11 Jan 2020 21:00:05 +0000
+Subject: Admin Daily Mail
+From: femto15 <femto@company.com>
+To: a.sherif7@yahoo.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+hello admin Ahmed sherif no. of registered users in last 24 hours are 3
+  
+[2020-01-12 10:12:23] local.DEBUG: Message-ID: <8066bef497049f60faa200526d48fdf2@127.0.0.1>
+Date: Sun, 12 Jan 2020 10:12:23 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: Ahmed Sherif <midohero6600@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Ahmed Sherif
+Thanks for creating an account . please verify your email using this link
+http://localhost:8000/user/verify/Social%20media%20accounts%20verified
+  
+[2020-01-12 10:13:01] local.DEBUG: Message-ID: <6adb16cb0e01e56e6025f7970cbf07bd@127.0.0.1>
+Date: Sun, 12 Jan 2020 10:13:01 +0000
+Subject: User Welcome
+From: femto15 <femto@company.com>
+To: midohero6600@gmail.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ahmed Sherif
+Thanks for logging to our website
+  
+[2020-01-12 10:13:37] local.DEBUG: Message-ID: <3afe4090c528f3513ccbadee84f99c73@127.0.0.1>
+Date: Sun, 12 Jan 2020 10:13:37 +0000
+Subject: User Created
+From: femto15 <femto@company.com>
+To: ahmed <aa@yahoo.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello ahmed
+Thanks for creating an account . please verify your email using this link
+http://localhost:8000/user/verify/FzpBuQnO30HpEu4VafUofD4bpZ6QAwgMprheXwYg
+  
